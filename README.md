@@ -19,7 +19,7 @@ Deploy the trained model via a Flask-based web application
 Provide probability-based predictions for interpretability
 
 Demonstrate applied machine learning in a healthcare context
-
+```
 🚀 Key Capabilities
 
 ✔ End-to-end ML pipeline (data → model → deployment)
@@ -28,7 +28,7 @@ Demonstrate applied machine learning in a healthcare context
 ✔ Clean and responsive web interface
 ✔ REST-style API endpoints
 ✔ Modular, maintainable, and extensible codebase
-
+```
 🧠 Machine Learning Workflow
 🧹 Data Preprocessing
 
@@ -138,7 +138,7 @@ HTML5
 CSS3
 
 JavaScript
-
+````
 📂 Project Structure
 diabetes_project/
 │
@@ -154,7 +154,7 @@ diabetes_project/
 ├── model.joblib                   # Trained ML pipeline
 ├── requirements.txt
 └── README.md
-
+````
 🖼️ Screenshots
 Figure 1: Clean Clinical Input Interface
 
