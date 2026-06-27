@@ -464,14 +464,26 @@ curl -X POST http://127.0.0.1:5000/predict \
 
 ---
 
-## 🏢 Internship Context
+## ## 🏢 Internship Context
 
-This project was developed during an **AI/ML Internship at InternPe**, with a focus on applied machine learning for healthcare decision-support systems. Work covered:
+| Field | Detail |
+|---|---|
+| Organization | InternPe |
+| Role | AI/ML Intern |
+| Focus | Applied machine learning for healthcare decision-support |
+| Status | ✅ Completed |
 
-- Clinical data preprocessing and biomarker feature engineering
-- Supervised binary classification with scikit-learn pipelines
-- Flask-based REST API design for ML inference
-- Real-time probability-based risk communication in a web interface
+**Skills applied during this internship project:**
+- Clinical data preprocessing & biomarker feature engineering (zero-as-missing detection, median imputation)
+- Supervised binary classification with probability-calibrated output (not just binary labels)
+- Comparative evaluation of 6 supervised algorithms with full metric reporting (Accuracy, CV, ROC-AUC)
+- Sklearn Pipeline design for leakage-safe preprocessing and serialization (atomic save with `os.replace()`)
+- Flask REST API integration for real-time ML inference (JSON & form input, hot-reload endpoint)
+- Responsible AI practices — clear medical disclaimers, no false clinical claims, recall-prioritized screening logic
+
+🔗 **Certificate:** [View on LinkedIn](https://www.linkedin.com/posts/m-v-karthikeya-b26a2131b_internshipcompletion-aiml-machinelearning-activity-7408819858177724416-m1Rt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEhlw4BT-6V0rnLIZSzBIoK7YvV2QlbHLc)
+
+🔗 **Watch the Demo:** [LinkedIn Video](https://www.linkedin.com/posts/m-v-karthikeya-b26a2131b_internpe-machinelearning-datascience-activity-7399398252476944384-3XE6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEhlw4BT-6V0rnLIZSzBIoK7YvV2QlbHLc)
 
 ---
 
