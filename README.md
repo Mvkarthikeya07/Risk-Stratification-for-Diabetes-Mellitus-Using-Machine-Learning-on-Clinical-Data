@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🩺 Diabetes Risk Stratification System</h1>
+<h1>🩺 Risk Stratification for Diabetes Mellitus Using Machine Learning on Clinical Data</h1>
 <h3>Clinical Risk Prediction Using Supervised Machine Learning on Diagnostic Biomarker Data</h3>
 
 <p>
